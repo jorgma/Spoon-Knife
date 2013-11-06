@@ -1,1 +1,1 @@
-Hej new readme changed in my forked project on GitHub
+Hi, new readme changed in my forked project on GitHub
